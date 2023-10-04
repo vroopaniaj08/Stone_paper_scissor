@@ -1,7 +1,6 @@
 # Stone_paper_scissor
 <br>
 Output-->
-```
 <br>
 Rock : 0
 <br>
@@ -91,7 +90,7 @@ player:6
 <br>
 computer:8
 <br>
-Player lose , Computer won```
+Player lose , Computer won
 <br>
 <br>
 Author :- Apoorv jain
