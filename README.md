@@ -1,51 +1,51 @@
 # Stone_paper_scissor
 <br>
 Output-->
-```
-Rock : 0
-Paper : 1
-Scissor : 2
-Enter your move , According to their number given above:-
-player's value:1
-computer value :2
-player:0
-computer:1
-player's value:0
-computer value :1
-player:0
-computer:2
-player's value:2
-computer value :2
-player:1
-computer:3
-player's value:1
-computer value :1
-player:2
-computer:4
-player's value:2
-computer value :1
-player:3
-computer:4
-player's value:0
-computer value :1
-player:3
-computer:5
-player's value:1
-computer value :1
-player:4
-computer:6
-player's value:1
-computer value :1
-player:5
-computer:7
-player's value:0
-computer value :2
-player:6
-computer:7
-player's value:2
-computer value :0
-player:6
-computer:8
-Player lose , Computer won
-```
+<br>
+Rock : 0<br/>
+Paper : 1<br/>
+Scissor : 2<br/>
+Enter your move , According to their number given above:-<br/>
+player's value:1<br/>
+computer value :2<br/>
+player:0<br/>
+computer:1<br/>
+player's value:0<br/>
+computer value :1<br/>
+player:0<br/>
+computer:2<br/>
+player's value:2<br/>
+computer value :2<br/>
+player:1<br/>
+computer:3<br/>
+player's value:1<br/>
+computer value :1<br/>
+player:2<br/>
+computer:4<br/>
+player's value:2<br/>
+computer value :1<br/>
+player:3<br/>
+computer:4<br/>
+player's value:0<br/>
+computer value :1<br/>
+player:3<br/>
+computer:5<br/>
+player's value:1<br/>
+computer value :1<br/>
+player:4<br/>
+computer:6<br/>
+player's value:1<br/>
+computer value :1<br/>
+player:5<br/>
+computer:7<br/>
+player's value:0<br/>
+computer value :2<br/>
+player:6<br/>
+computer:7<br/>
+player's value:2<br/>
+computer value :0<br/>
+player:6<br/>
+computer:8<br/>
+Player lose , Computer won<br/>
+<br/><br/>
 Author :- Apoorv jain
